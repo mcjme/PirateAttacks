@@ -40,5 +40,3 @@ Benden, P., Feng, A., Howell, C., & Dalla Riva G. V. (2021). Crime at Sea: A Glo
 * Unemployment Rate - Percentage of the Country Unemployed.
 * Total GR - Total Government Revenue. An indication of how well the country collects taxes.
 * Industry - Industrial contribution to total GDP.
-
-# Citation
